@@ -11,7 +11,6 @@
   inputs.src-opengl-master.ref   = "refs/heads/master";
   inputs.src-opengl-master.owner = "nim-lang";
   inputs.src-opengl-master.repo  = "opengl";
-  inputs.src-opengl-master.dir   = "";
   inputs.src-opengl-master.type  = "github";
   
   inputs."x11".owner = "nim-nix-pkgs";

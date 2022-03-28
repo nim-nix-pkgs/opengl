@@ -11,7 +11,6 @@
   inputs.src-opengl-v1_2_2.ref   = "refs/tags/v1.2.2";
   inputs.src-opengl-v1_2_2.owner = "nim-lang";
   inputs.src-opengl-v1_2_2.repo  = "opengl";
-  inputs.src-opengl-v1_2_2.dir   = "";
   inputs.src-opengl-v1_2_2.type  = "github";
   
   inputs."x11".owner = "nim-nix-pkgs";
